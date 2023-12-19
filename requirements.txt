@@ -1,3 +1,4 @@
+anchor-exp
 jupyter_client==8.6.0
 jupyter==1.0.0 
 lime==0.2.0.1
@@ -5,5 +6,5 @@ Markdown==3.5.1
 notebook==7.0.6 
 pandas==2.1.4
 py-ciu==0.1.1 
+pymfe==0.4.2
 skope-rules==1.0.1
-anchor-exp
