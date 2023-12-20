@@ -4,7 +4,7 @@ The objective of this project is to create an automated decision support system 
 
 ## Repository structure
 
-The testing and metric generation for interpretability techniques can be found in the folder 'notebooks'. The full pipeline and recommendation example is in the file full_pipeline_recommendatio.ipynb.
+The testing and metric generation for interpretability techniques can be found in the folder 'notebooks'. The full pipeline and recommendation example is in the file full_pipeline_recommendation.ipynb.
 
 ## References
 - Used OpenML datasets are cloned from this repositorium for easier access: https://github.com/Krish2208/InterpretabilityBenchmark
