@@ -1,11 +1,3 @@
 # A decision support system for explainability techniques
 
-The goal of this project is to develop a decision support system that automates the selection of interpretable techniques based on dataset characteristics and quantitative evaluation metrics. The increasing complexity of machine learning models demands transparent and interpretable explanations for informed decision-making. Our system aims to enhance the accessibility of interpretability by recommending the most suitable technique for a given dataset, promoting robust and understandable machine learning models.
-
-# Setup
-
-``````bash
-conda create -n automl2 python=3.9.18 -c conda-forge
-conda activate automl2
-pip install -r requirements.txt
-``````
+The objective of this project is to create an automated decision support system designed to select interpretable methods tailored to specific dataset attributes and quantifiable evaluation metrics. With the growing intricacy of machine learning models, there's a pressing need for transparent, understandable explanations to facilitate informed decision-making. This system is intended to improve the ease of access to interpretability by suggesting the most appropriate method for each dataset, thereby fostering the development of robust and comprehensible machine learning models.
